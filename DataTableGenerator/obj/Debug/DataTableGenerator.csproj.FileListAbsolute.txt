@@ -1,0 +1,4 @@
+E:\Projects\DataTableGenerator\DataTableGenerator\bin\Debug\DataTableGenerator.dll
+E:\Projects\DataTableGenerator\DataTableGenerator\bin\Debug\DataTableGenerator.pdb
+E:\Projects\DataTableGenerator\DataTableGenerator\obj\Debug\DataTableGenerator.dll
+E:\Projects\DataTableGenerator\DataTableGenerator\obj\Debug\DataTableGenerator.pdb
