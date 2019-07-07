@@ -64,7 +64,7 @@ public class Product
 
 
 # Notice
-If you need to translate your property in result datatable you need to decorate the property with `Display` attribute
+If you need to translate specific properties in the result datatable, you need to decorate the properties with `Display` attribute
 ```
  [Display(Name = "Id", ResourceType = typeof(TranslateResource))]
  public int Id { get; set; }
