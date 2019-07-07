@@ -1,0 +1,10 @@
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\bin\Debug\DataTableGenerator.Sample.exe.config
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\bin\Debug\DataTableGenerator.Sample.exe
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\bin\Debug\DataTableGenerator.Sample.pdb
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\bin\Debug\DataTableGenerator.dll
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\bin\Debug\DataTableGenerator.pdb
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\obj\Debug\DataTableGenerator.Sample.csprojResolveAssemblyReference.cache
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\obj\Debug\DataTableGenerator.Sample.Resources.TranslateResource.resources
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\obj\Debug\DataTableGenerator.Sample.csproj.GenerateResource.Cache
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\obj\Debug\DataTableGenerator.Sample.exe
+E:\Projects\DataTableGenerator\DataTableGenerator.Sample\obj\Debug\DataTableGenerator.Sample.pdb
