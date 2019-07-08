@@ -10,7 +10,7 @@ If you had any problem, let me know.
 
 # How to Use
 
-1- You got a Model as Product Model like this :
+1- You got a Model as Product like this :
 
 ```
 public class Product
