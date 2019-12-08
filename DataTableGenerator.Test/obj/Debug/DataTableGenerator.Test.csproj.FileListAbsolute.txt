@@ -1,9 +1,0 @@
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\bin\Debug\DataTableGenerator.Test.dll
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\bin\Debug\DataTableGenerator.Test.pdb
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\bin\Debug\DataTableGenerator.dll
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\bin\Debug\DataTableGenerator.Sample.exe
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\bin\Debug\DataTableGenerator.Sample.pdb
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\bin\Debug\DataTableGenerator.pdb
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\obj\Debug\DataTableGenerator.Test.csprojResolveAssemblyReference.cache
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\obj\Debug\DataTableGenerator.Test.dll
-E:\Projects\DataTableGenerator\DataTableGenerator.Test\obj\Debug\DataTableGenerator.Test.pdb
