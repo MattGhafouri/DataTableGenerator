@@ -71,3 +71,7 @@ If you need to translate specific properties in the result datatable, you need t
 ```
 
 
+# Nuget package Url
+
+https://www.nuget.org/packages/DataTableGenerator
+
